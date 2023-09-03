@@ -1,3 +1,1 @@
-var app = {
-    
-}
+var app = 12
